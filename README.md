@@ -8,7 +8,7 @@
 
 ## Diagram 2 : How mouse/touch input is processed, step by step
 
-![Input Pipeline Diagram](touch_input_processing_pipeline.svg)
+![Input Pipeline Diagram]()https://github.com/C0DER-B0T/Human/blob/b59f2b948a574c754f3a4aca1023c29e811fe06d/assets/open_source_ai_human_architecture.svg
 
 
 
